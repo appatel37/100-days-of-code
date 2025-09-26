@@ -1,19 +1,19 @@
 Day 7 - Hangman Game
 Overview
 
-For Day 7, I created a Hangman Game in Python. The game selects a random word from a list, and the player has to guess it one letter at a time. Each wrong guess reduces the number of lives and displays a new stage of the hangman using ASCII art. The game ends when the word is guessed correctly or when all lives are lost.
+Created a Hangman Game in Python. The program selects a random word, and the player has to guess it letter by letter before running out of lives.
 
 Concepts Learned
 
-Using the random module to pick a word
+Using the random module
 
-Lists and string manipulation to track guesses
+Lists and string manipulation
 
-Loops and conditionals for game flow
+Loops and conditionals
 
-Modular programming by splitting code into separate files (hangman.py, hangman_words.py, hangman_art.py)
+Modular programming with multiple files
 
-ASCII art for visual feedback
+ASCII art for stages and logo
 
 Project Structure
 
